@@ -24,13 +24,16 @@ Photo of alien in a the middle of the street, riding a cycle, marsattacks!, deta
 
 ## Sample 2
 ![image](https://github.com/Normalnoise/models/assets/102578774/7268305f-01a1-4da4-b111-55913a17cd79)
+
 **Prompt**
 ```
 1boy and 1girl alien <lora:marsattacks_v10768:0.7> MarsAttacks! an alien couple having dinner on a romantic candle lit dinner with wine
 ```
 **Negative prompt**
 ```
-(low quality, worst quality:1.4), (bad anatomy), (inaccurate limb:1.2), bad composition, extra digit, fewer digits, text, asymmetrical breasts, missing limbs, merged limbs, badhandv4, bad ankles, fused limbs, censored, easynegative, ng_deepnegative_v1_75t, large insertion, tattoo, bulge, artist signature```
+(low quality, worst quality:1.4), (bad anatomy), (inaccurate limb:1.2), bad composition, extra digit, fewer digits, text, asymmetrical breasts, missing limbs, merged limbs, badhandv4, bad ankles, fused limbs, censored, easynegative, ng_deepnegative_v1_75t, large insertion, tattoo, bulge, artist signature
+```
+
 **Sampler:** `DPM++ 2M Karras`
 
 **Model:** `lyriel_v13`
