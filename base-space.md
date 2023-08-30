@@ -158,7 +158,10 @@ Congratulations! An image has been generated from your forked Stable Diffusion S
 
 #### Note:
 
-If you have not previously added any models and now wish to include additional ones, please Click on **`Redeploy`** after following the steps outlined in [How to Add More Models]().<p id="how-to-add-more-models">How to Add More Models</p>
+If you have not previously added any models and now wish to include additional ones, please Click on **`Redeploy`** after following the steps outlined in [How to Add More Models](how-to-add-more-models ':include').
+
+
+<p id="how-to-add-more-models">How to Add More Models</p>
 
 <figure><img src="https://lh3.googleusercontent.com/2yhRhnPCKsAX82qvk4N4tF9gVZ7CnjYLUIsrjeweTC5PCjoOY-9PE6ofpVzzYMO-_iX2eJ3xr2KJ-ScRaqOZ45n1aA8gH8s7B2wcR_aNBOuUJAJsLUi7nyPoypE8VCiKyYbg1Hm9akXFJARkqqB2Ls0" alt=""><figcaption></figcaption></figure>
 
