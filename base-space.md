@@ -61,7 +61,8 @@ However, if the available models do not precisely align with your image preferen
 RUN wget <model_download_link> -O /stable-diffusion-webui/models/Lora/<your_model_name>
 ```
 
-<figure><img src="https://lh6.googleusercontent.com/JaUXPWNgWgo640KbJou5RLRtsUjc2X0LDdDZ-azOUxHzKFD2p25gLtUORnh_fxBiNvK9x3ovlkkD5vyfbDdaAN0yY2_uAxyDu6WZMnev5l7zk0XPR2mDly5qye32xdoAyvPOWHREK1IDqyH4AL-sQ84" alt=""><figcaption></figcaption></figure>
+<img width="1337" alt="image" src="https://github.com/Normalnoise/models/assets/102578774/d6d8d3a2-31f6-44b1-b918-ecaa24a3abf3">
+
 
 <img width="1297" alt="image" src="https://github.com/Normalnoise/models/assets/102578774/2a04348c-9937-416a-94b9-3efc5443e130">
 
